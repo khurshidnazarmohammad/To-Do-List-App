@@ -1,9 +1,35 @@
-JavaScript To-Do List
+# 📝 To Do List App
 
-A simple To-Do List built with HTML, CSS, and JavaScript.  
-Users can add tasks dynamically using DOM manipulation.
+A modern and responsive To Do List application built using HTML, CSS, and JavaScript.
 
-Technologies: HTML, CSS, JavaScript  
-Features: Add tasks to a list  
-Start: Open `index.html` in the browser
+This project is designed for practicing DOM manipulation, event handling, and clean UI design in front-end development.
+
+---
+
+# 🚀 Features
+
+✅ Add new tasks  
+✅ Delete tasks  
+✅ Mark tasks as completed  
+✅ Add tasks using Enter key  
+✅ Responsive and modern UI  
+✅ Smooth hover effects  
+✅ Clean project structure  
+
+---
+
+# 📂 Project Structure
+
+`bash
+todo-list/
+│
+├── index.html
+│
+├── css/
+│   └── style.css
+│
+├── javascript/
+│   └── app.js
+│
+└── README.md
 
